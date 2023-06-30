@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkundecimo_proyecto_cli"]=self["webpackChunkundecimo_proyecto_cli"]||[]).push([[443],{782:function(n,c,e){e.r(c),e.d(c,{default:function(){return d}});var u=e(252);const t={class:"about"},o=(0,u._)("h1",null,"This is an about page",-1),r=[o];function i(n,c){return(0,u.wg)(),(0,u.iD)("div",t,r)}var a=e(744);const s={},l=(0,a.Z)(s,[["render",i]]);var d=l}}]);
+//# sourceMappingURL=about.9bbb0434.js.map
